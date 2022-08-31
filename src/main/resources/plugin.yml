@@ -1,0 +1,6 @@
+name: NoChatReport
+version: '${project.version}'
+main: com.funnyboyroks.nochatreport.NoChatReport
+api-version: 1.19
+authors: [ funnyboy_roks ]
+description: Remove Chat Reporting In Chat
